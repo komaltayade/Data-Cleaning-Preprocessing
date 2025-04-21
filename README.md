@@ -8,7 +8,7 @@ Create a clean structured dataset that is ready for analysis.
    Checked for missing values across all columns.
    No missing values found in the dataset, so no removal was needed.
 
-3. Standardized Text:  Using Excel functions to ensure consistency across categorical fields such as Spend_Fruits,Spend_Meats and Education.
+3. Standardized Text :  Using Excel functions to ensure consistency across categorical fields such as Spend_Fruits,Spend_Meats and Education.
    Rename Colomn Header to be clean and uniform, Check and fix data types. 
    
 4. Cell Formatting :
